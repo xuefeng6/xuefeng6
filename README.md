@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently major in Information Security.
+- 😄 Interested in DL&ML with Cyberspace Security.
+......
 <!--
 **xuefeng6/xuefeng6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
